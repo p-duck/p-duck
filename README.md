@@ -28,9 +28,9 @@ To add all emoji in bulk, You can use chrome extension.
 [Neutral Face Emoji Tools](https://chrome.google.com/webstore/detail/neutral-face-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej/) is suitable choice.
 
 
-## Icons
+## Emoji
 
-| Name | Image |
+| Name | Emoji |
 | ---  | ---   |
 | `:pduck-clock:` | ![](./pduck/pduck-clock.gif) |
 | `:pduck-gohome:` | ![](./pduck/pduck-gohome.gif) |
