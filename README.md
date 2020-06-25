@@ -27,6 +27,9 @@ To add all emoji in bulk, You can use chrome extension.
 
 [Neutral Face Emoji Tools](https://chrome.google.com/webstore/detail/neutral-face-emoji-tools/anchoacphlfbdomdlomnbbfhcmcdmjej/) is suitable choice.
 
+#### Add All Emoji with emojipacks
+
+Another option to add all emoji in bulk, You can use [emojipacks](https://github.com/Code-Hex/go-emojipacks) and use pduck.yaml.
 
 ## Emoji
 
